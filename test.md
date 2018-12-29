@@ -1,4 +1,4 @@
-<img width="150" height="150" align="left" style="float: left; margin: 0 10px 0 0;" alt="Wigle" src="https://cdn.discordapp.com/avatars/471970062173995009/6527b9d949f6b51df496e3ce09c6bbcf.png?size=512"> 
+<img width="150" height="150" align="left" style="float: left; margin: 0 10px 0 0;" alt="FTNL" src="https://cdn.discordapp.com/avatars/370665722780712960/138ae77161cfbb4636a0d13ac72b9356.png"> 
 
 # Wigle
 Wigle is a powerful, configurable and multipurpose Discord bot, made using the [discord.js](https://discord.js.org/) library for the Discord API.
