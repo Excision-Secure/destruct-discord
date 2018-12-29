@@ -12,7 +12,7 @@ Ouvrir le CMD (invite de commande) Windows, puis coller le chemin du dossier de 
 `cd C:\Users\Desktop\MON BOT` (exemple)
 
 # ETAPE 3
-Tapez dans votre CMD : `git clone https://github.com/JockeRider199/destruct-discord/`
+Tapez dans votre CMD : `git clone https://github.com/EvilgeniX/destruct-discord/`
 
 Cela importera le ripository dans votre dossier Bot.
 
